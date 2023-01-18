@@ -26,8 +26,6 @@ function generatePassword () {
 
   var charactersLength = characters.length;
 
-  var n = 'n';
-
   userInput = parseInt(prompt('How many characters long should this password be?', ''))
 
   if (!userInput) {
@@ -40,7 +38,7 @@ function generatePassword () {
   
   var confirmCap = prompt('would you like capital letters? (type y or n)', '')
 
-  var confirmSpecial = prompt('would you like special characters?')
+  var confirmSpecial = prompt('would you like special characters? (type y or n)')
   
   if (confirmNum == 'y'){
     characters.concat(lowerCase, num);
