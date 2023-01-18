@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 03 JavaScript: Password Generator
 
 ## Your Task
@@ -98,3 +99,7 @@ You are required to submit the following for review:
 
 - - -
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+=======
+# password-generator
+a random password generator
+>>>>>>> a1ede9a00a6a67b49f2bebf8c5ffe6b9a2d4adb6
